@@ -1,1 +1,3 @@
 # ExamHelper
+
+This repository contains a helper project with certain helper classes that seem pretty useful for some programming exams so this base work should not be done more than once...
