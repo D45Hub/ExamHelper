@@ -20,7 +20,6 @@ public class SimpleFileReader
     public static String readCompleteFile(String filePath)
     {
         List<String> fileLines = readCompleteFileLineSeparated(filePath);
-
         StringBuilder fileBuilder = new StringBuilder();
 
         for (String fileLine : fileLines)

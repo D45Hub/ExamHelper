@@ -94,7 +94,6 @@ public class SimpleFileWriter
         try (BufferedWriter fileWriter = new BufferedWriter(
                 new FileWriter(filePath, appendToExistingFile)))
         {
-
             for (String fileLine : lineSeparatedContent)
             {
                 fileWriter.write(fileLine);

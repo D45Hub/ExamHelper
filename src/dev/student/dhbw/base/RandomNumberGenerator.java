@@ -12,14 +12,14 @@ public class RandomNumberGenerator
 
     /**
      * This method generates a random number between certain bounds including those
-     * boundries. Every input for a minimum and maximum number is allowed. Even
+     * boundaries. Every input for a minimum and maximum number is allowed. Even
      * negative and/or positive numbers, but the minimum number should be lower than
      * the maximum number.
      * 
      * @param minimum
-     *            The minimum number which should be occuring.
+     *            The minimum number which should be occurring.
      * @param maximum
-     *            The maximum number which should be occuring.
+     *            The maximum number which should be occurring.
      * @return Returns a random number between those bounds.
      */
     public static int generateRandomNumberInRange(int minimum, int maximum)
@@ -31,14 +31,14 @@ public class RandomNumberGenerator
 
     /**
      * This method generates a random number between certain bounds including those
-     * boundries. Every input for a minimum and maximum number is allowed. Even
+     * boundaries. Every input for a minimum and maximum number is allowed. Even
      * negative and/or positive numbers, but the minimum number should be lower than
      * the maximum number.
      * 
      * @param minimum
-     *            The minimum number which should be occuring.
+     *            The minimum number which should be occurring.
      * @param maximum
-     *            The maximum number which should be occuring.
+     *            The maximum number which should be occurring.
      * @return Returns a random number between those bounds.
      */
     public static double generateRandomNumberInRange(double minimum, double maximum)
@@ -50,14 +50,14 @@ public class RandomNumberGenerator
 
     /**
      * This method generates a random number between certain bounds including those
-     * boundries. Every input for a minimum and maximum number is allowed. Even
+     * boundaries. Every input for a minimum and maximum number is allowed. Even
      * negative and/or positive numbers, but the minimum number should be lower than
      * the maximum number.
      * 
      * @param minimum
-     *            The minimum number which should be occuring.
+     *            The minimum number which should be occurring.
      * @param maximum
-     *            The maximum number which should be occuring.
+     *            The maximum number which should be occurring.
      * @return Returns a random number between those bounds.
      */
     public static double generateRandomNumberInRange(float minimum, float maximum)
@@ -69,14 +69,14 @@ public class RandomNumberGenerator
 
     /**
      * This method generates a random number between certain bounds including those
-     * boundries. Every input for a minimum and maximum number is allowed. Even
+     * boundaries. Every input for a minimum and maximum number is allowed. Even
      * negative and/or positive numbers, but the minimum number should be lower than
      * the maximum number.
      * 
      * @param minimum
-     *            The minimum number which should be occuring.
+     *            The minimum number which should be occurring.
      * @param maximum
-     *            The maximum number which should be occuring.
+     *            The maximum number which should be occurring.
      * @return Returns a random number between those bounds.
      */
     public static double generateRandomNumberInRange(long minimum, long maximum)
